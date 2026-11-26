@@ -1,11 +1,11 @@
 package com.example.questapi_0138.modeldata
 
-import kotlinx.serialization.Serializer
+import kotlinx.serialization.Serializable
 
-@Serializer
+@Serializable
 data class DataSiswa(
-    val id : Int,
-    val nama : String,
-    val alamat : String,
-    val telpon : String
+    val id: Int,
+    val nama: String,
+    val alamat: String,
+    val telpon: String
 )
