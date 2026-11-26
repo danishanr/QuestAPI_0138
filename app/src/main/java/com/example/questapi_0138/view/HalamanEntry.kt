@@ -25,7 +25,7 @@ import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.questapi_0138.route.DestinasiEntry
+import com.example.questapi_0138.uicontroller.route.DestinasiEntry
 import com.example.questapi_0138.viewmodel.DetailSiswa
 import com.example.questapi_0138.viewmodel.EntryViewModel
 import com.example.questapi_0138.viewmodel.PenyediaViewModel
