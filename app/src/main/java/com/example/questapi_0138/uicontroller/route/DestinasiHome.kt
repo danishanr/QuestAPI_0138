@@ -1,6 +1,6 @@
-package com.example.questapi_0138.route
+package com.example.questapi_0138.uicontroller.route
 
-import androidx.compose.foundation.R
+import com.example.questapi_0138.R
 
 object DestinasiHome : DestinasiNavigasi {
     override val route = "home"
